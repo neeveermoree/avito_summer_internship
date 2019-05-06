@@ -1,3 +1,5 @@
-My solution to task provided for Avito Summer Internship
+My solution to task provided by Avito in order to get to their Summer Internship
 
-NLTK + Logistic Regression
+Most of the work was done using:
+1) NLTK
+2) Logistic Regression
